@@ -1,0 +1,4 @@
+PROJECTS=ProjectA:https://github.com/{owner1}/{repo1}/releases.atom,ProjectB:https://github.com/{owner2}/{repo2}/releases.atom
+LARK_WEBHOOK_URL=https://open.larksuite.com/open-apis/bot/v2/hook/your_webhook_key
+LOG_FILE=github_release_monitor.log
+SENT_RELEASES_FILE=sent_releases.txt
